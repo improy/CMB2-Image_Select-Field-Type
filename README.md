@@ -1,4 +1,4 @@
-# CMB2-Image_Select Field Type
+# CMB2 Image_Select Field Type
 CMB2 Image_select field type. Ready to integrated with a theme
 
 ## Use
@@ -22,6 +22,6 @@ array(
 <img src="https://github.com/improy/CMB2-Image_Select-Field-Type/blob/master/CMB2-Image_select-Field-Type.jpg" alt="CMB2 Image_select Field Type"/>
 
 ## Tutorial on how to integrate Image_select field in to a WordPress theme 
-http://www.proy.info/how-to-create-cmb2-buttonset-field-type/
+http://www.proy.info/how-to-create-cmb2-image-select-field-type/
 
 
